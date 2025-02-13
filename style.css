@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    color: blue;
+    border: 5px solid blue;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+header a {
+    background-color: rgb(2, 2, 156);
+    color: white;
+    text-decoration: none;
+    padding: 3px 7px 3px 7px;
+    border-radius: 6px;
+}
+
+h1 {
+    color: blueviolet;
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+select {
+    background-color: rgb(255, 216, 145);
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+}
